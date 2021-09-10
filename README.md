@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ceasar Cipher's](https://github.com/paulamanosalva/SCL018-cipher)
 
-- 🌱 I’m currently learning **the basics of Front-end web development**
+- 🌱 Now learning **the basics of Front-end web development**
 
 - 📫 How to reach me **pau.emd@gmail.com**
 
