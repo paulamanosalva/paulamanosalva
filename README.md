@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paula Manosalva</h1>
 <h3 align="center">A Laboratoria student from Chile</h3>
 
-- 🔭 I’m currently working on [Ceasar Cipher's](https://github.com/paulamanosalva/SCL018-cipher)
+- 🔭 I’m currently working on MDlinks
 
-- 🌱 Now learning **the basics of Front-end web development**
+- 🌱 Now learning **Front-end web development**
 
 - 📫 How to reach me **pau.emd@gmail.com**
 
