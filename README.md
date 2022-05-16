@@ -1,6 +1,6 @@
-# Hi 👋, I'm Paula Manosalva
+# Hi 👋, I'm Pau
 
-## I'm a Front-end developer from Chile:
+## Front-end developer from Chile:
 
 
 - 🌱 I'm always looking for new challenges
