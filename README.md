@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pau
+# Hi 👋 I'm Pau
 
 ## Front-end developer from Chile:
 
