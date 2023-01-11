@@ -2,18 +2,18 @@
 
 ## Front-end developer from Chile:
 
+- Im currently working from another github account, but I hope to retake personal projects soon
 
 - 🌱 I'm always looking for new challenges
 
 - 🖤 I love learning new things
 
-- 🥅 2022 Goals: delve into advanced javascript knowledge
+- 🥅 2023 Goals: learn some backend
 
 - ⚡ Random fact: I love to play instruments and videogames
 
 - 📫 Let's talk:  **paulamanosalva.d@gmail.com**
 
-- 🖤 Im currently working from another github account, but I hope to retake personal projects soon
 
 
 ### Languages and Tools:
