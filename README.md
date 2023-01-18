@@ -2,7 +2,7 @@
 
 ## Front-end developer from Chile:
 
-- Im currently working from another github account, but I hope to retake personal projects soon
+- Im currently working from [another github account](https://github.com/pmanosalvaMELI), but I hope to retake personal projects soon
 
 - 🌱 I'm always looking for new challenges
 
