@@ -8,7 +8,7 @@
 
 - 🖤 I love learning new things
 
-- 🥅 2023 Goals: learn some backend
+- 🥅 2024 Goals: learn some backend
 
 - ⚡ Random fact: I love to play instruments and videogames
 
