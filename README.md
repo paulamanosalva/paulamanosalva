@@ -2,7 +2,7 @@
 
 ## Fullstack developer from Chile:
 
-- I'm currently working from [another GitHub account](https://github.com/pmanosalvaMELI), but I hope to retake personal projects soon.
+- I'm currently working from another GitHub account for Mercado Libre, but sometimes I upload my own stuff around here.
 - 📫 Let's talk:  **paulamanosalva.d@gmail.com**.
 
 ### Languages and Tools:
